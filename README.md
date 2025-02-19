@@ -2,7 +2,6 @@
   
   # Oie, sou o Renato! 👋  
   💻 Apaixonado por Cibersegurança e tecnologia, gosto de Python, C# e explorar binários. 
-  📚 Estudante de Defesa Cibernética na FIAP.  
 
 </div>
 
