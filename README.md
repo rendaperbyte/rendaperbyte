@@ -14,3 +14,5 @@
 ---
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/renato-sailer-a808aa300/)  
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-111927?style=for-the-badge&logo=TryHackMe&logoColor=white)](https://tryhackme.com/p/rendaperbyte)
+
