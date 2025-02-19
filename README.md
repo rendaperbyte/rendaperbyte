@@ -1,16 +1,13 @@
-## Hi there 👋
+# Oie, sou o Renato! 👋
 
-<!--
-**rendaperbyte/rendaperbyte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Apaixonado por Cibersegurança e tecnologia.  
+📚 Estudante de Defesa Cibérnetica na FIAP  
 
-Here are some ideas to get you started:
+## GitHub Stats:
+![Renato's GitHub stats](https://github-readme-stats.vercel.app/api?username=rendaperbyte&show_icons=true&theme=dark)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Vamos nos conectar?  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/renato-sailer-a808aa300/)  
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rendaperbyte&layout=compact&theme=dark)
