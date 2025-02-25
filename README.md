@@ -5,8 +5,8 @@
 
 ## 📊 GitHub Stats:
 <div style="display: flex; justify-content: center; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=rendaperbyte&show_icons=true&theme=dark&border_color=FFD700" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rendaperbyte&layout=compact&theme=dark&border_color=FFD700" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sailert&show_icons=true&theme=dark&border_color=FFD700" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sailert&layout=compact&theme=dark&border_color=FFD700" width="48%"/>
 </div>
 
 ## 🧑‍💻 Linguagens que sei:
@@ -15,13 +15,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/C_Logo.png" alt="C" width="50" />
 </div>
 
-## TryHackMe Badge:
-<div style="display: flex; justify-content: center; align-items: center; margin-top: 20px;">
-  <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userpublicid=4248013" style="border: none;" width="100%" height="150px"></iframe>
-</div>
-
 ---
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/renato-sailer-a808aa300/)
-
 
