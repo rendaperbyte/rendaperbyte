@@ -6,6 +6,7 @@ Atualmente estudando e aprimorando minhas habilidades em **Cybersegurança**. �
 
 ## 🛡️ TryHackMe Badge:
 <a href="https://tryhackme.com/p/rendapercaptcha">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/rendapercaptcha.png" alt="TryHackMe Badge" width="300">
 </a>
 
 ---
@@ -18,4 +19,4 @@ Atualmente estudando e aprimorando minhas habilidades em **Cybersegurança**. �
 ---
 
 ## 📫 Como me encontrar:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renato-sailer-a808aa300/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renato-sailer-a808aa300/)
