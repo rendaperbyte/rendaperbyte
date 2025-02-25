@@ -1,5 +1,5 @@
 # Oie, sou o Renato! 👋💻  
-💛 Apaixonado por **Cibersegurança** e tecnologia, gosto de **Python, C** e explorar **binários**.  
+💛 Apaixonado por **Cibersegurança** e tecnologia, gosto de **Python, C, CTFs** e explorar **binários**.  
 Atualmente estudando e aprimorando minhas habilidades em **Cybersegurança**. 🚀  
 
 ---
