@@ -6,7 +6,7 @@ Atualmente estudando e aprimorando minhas habilidades em **Cybersegurança**. �
 
 ## 🛡️ TryHackMe Badge:
 <a href="https://tryhackme.com/p/ByteFinderx0">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/ByteFinderx0.png" alt="TryHackMe Badge" width="300">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/rendapercaptcha.png" alt="TryHackMe Badge" width="300">
 </a>
 
 ---
