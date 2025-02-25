@@ -5,11 +5,9 @@ Atualmente estudando e aprimorando minhas habilidades em **Cybersegurança**. �
 ---
 
 ## 📊 Minhas Estatísticas no GitHub:
-<div style="border: 2px solid #FFD700; border-radius: 10px; padding: 10px; text-align: center;">
-  <div style="display: flex; justify-content: center; align-items: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=rendaperbyte&show_icons=true&theme=dark&border_color=FFD700" width="48%"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rendaperbyte&layout=compact&theme=dark&border_color=FFD700" width="48%"/>
-  </div>
+<div align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rendaperbyte&show_icons=true&theme=dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rendaperbyte&layout=compact&theme=dark"/>
 </div>
 
 ---
@@ -18,7 +16,6 @@ Atualmente estudando e aprimorando minhas habilidades em **Cybersegurança**. �
 <div style="border: 2px solid #FFD700; border-radius: 10px; padding: 10px; text-align: center;">
   <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="50" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/C_Logo.png" alt="C" width="50" />
   </div>
 </div>
 
@@ -30,6 +27,9 @@ Atualmente estudando e aprimorando minhas habilidades em **Cybersegurança**. �
     <img src="https://tryhackme-badges.s3.amazonaws.com/ByteFinderx0.png" alt="TryHackMe Badge">
   </a>
 </div>
+
+## 📫 Como me encontrar  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renato-sailer-a808aa300/)  
 
 ---
 
