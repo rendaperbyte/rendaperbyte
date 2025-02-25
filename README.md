@@ -9,6 +9,7 @@
 <div style="display: flex; justify-content: center; align-items: center;">
   <img src="https://github-readme-stats.vercel.app/api?username=rendaperbyte&show_icons=true&theme=dark&border_color=FFD700" width="48%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rendaperbyte&layout=compact&theme=dark&border_color=FFD700" width="48%"/>
+  <iframe src = "https://tryhackme.com/api/v2/badges/public-profile?userpublicid=4248013" style = 'border: none;'> </frame> 
 </div>
 
 ---
