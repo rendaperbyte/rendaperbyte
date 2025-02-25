@@ -6,20 +6,10 @@ Atualmente estudando e aprimorando minhas habilidades em **Cybersegurança**. �
 
 ## 🛡️ TryHackMe Badge:
 <a href="https://tryhackme.com/p/ByteFinderx0">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/ByteFinderx0.png" alt="TryHackMe Badge" width="180">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/ByteFinderx0.png" alt="TryHackMe Badge" width="300">
 </a>
 
 ---
-
-## 📊 Minhas Estatísticas no GitHub:
-
-<div style="display: flex; justify-content: center; gap: 20px;">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=rendaperbyte&theme=dark" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rendaperbyte&layout=compact&theme=dark"/>
-</div>
-
----
-
 
 <div style="display: flex; justify-content: center; gap: 20px;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="50" />
